@@ -21,15 +21,15 @@ To *view* the notebooks on Binder use the links below.
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Interpolation.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-1-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Interpolation.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-1-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Interpolation-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-1-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Interpolation-Solutions.ipynb)
 
 ---
 
@@ -37,15 +37,15 @@ To *view* the notebooks on Binder use the links below.
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-2-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Differentiation.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-2-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Differentiation.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-2-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Differentiation-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-2-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Differentiation-Solutions.ipynb)
 
 
 If you would like some additional, more challenging exercises, please look in the github repo.
@@ -56,63 +56,62 @@ If you would like some additional, more challenging exercises, please look in th
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-3-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Integration.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-3-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Integration.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-3-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Integration-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-3-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Integration-Solutions.ipynb)
 
 ---
 
-#### Lecture 4: Roots of equations.
+#### Lecture 4: Linear (matrix) systems I.
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-4-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA1.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-4-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA1.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-4-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA1-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-4-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA1-Solutions.ipynb)
 
 ---
 
-#### Lecture 5: Linear (matrix) systems I.
+#### Lecture 5: Linear (matrix) systems II.
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-5-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA2.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-5-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA2.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-5-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA2-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-5-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA2-Solutions.ipynb)
 
 ---
-
-#### Lecture 6: Linear (matrix) systems II.
+#### Lecture 6: Roots of equations.
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-6-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Roots.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-6-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Roots.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-6-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-Roots-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-6-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-Roots-Solutions.ipynb)
 
 ---
 
@@ -120,34 +119,31 @@ If you would like some additional, more challenging exercises, please look in th
 
 **Lecture**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-7-Numerical-methods-1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA3.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA3.ipynb)
 
 **Solutions**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-7-Numerical-methods-1-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA3-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA3-Solutions.ipynb)
 
 
 **Some extra exercises**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-7-Numerical-methods-1-extra-exercises.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA3-extra-exercises.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1-extra-exercises.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA3-extra-exercises.ipynb)
 
 **Solutions to extra exercises**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FLecture-7-Numerical-methods-1-extra-exercises-Solutions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matt-piggott/Numerical-methods-undergraduate/HEAD?filepath=notebook%2FNumerical-methods-NLA3-extra-exercises-Solutions.ipynb)
 
-[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Lecture-7-Numerical-methods-1-extra-exercises-Solutions.ipynb)
+[Notebook file](https://raw.githubusercontent.com/matt-piggott/Numerical-methods-undergraduate/master/notebook/Numerical-methods-NLA3-extra-exercises-Solutions.ipynb)
 
 ---
 
-
-
-Some guidance on interacting with Jupyer notebooks is here: [notebooks](https://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/)
 
 
 Back to main page: [https://matt-piggott.github.io/Numerical-methods-undergraduate/](https://matt-piggott.github.io/Numerical-methods-undergraduate/)
