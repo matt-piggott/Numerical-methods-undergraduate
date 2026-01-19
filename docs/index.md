@@ -23,11 +23,11 @@ You can also find some useful introductory Python material here
 
 
 
-### Jupyter notebook
+### Jupyter notebooks and JupyterLab
 
-The lectures notes are written in [Jupyter notebook](https://jupyter.org/). This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots etc into a single document. 
+The lectures notes are provided in [Jupyter notebook](https://jupyter.org/) form. This is a web-based interactive computational environment where you can combine code execution, text, mathematics, plots etc into a single document. 
 
-For some information on Jupyter notebooks for this module specifically see: [Jupyter notebooks](http://matt-piggott.github.io/Numerical-methods-undergraduate/notebooks/).
+[JupyerLab](https://jupyterlab.readthedocs.io/en/latest/) is the recommended platform for reading, editing and running the code in the notebooks.
 
 
 ### Supplementary material
